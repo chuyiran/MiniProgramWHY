@@ -17,6 +17,7 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
+  <view>新建并初始化</view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
